@@ -1,0 +1,16 @@
+name: cv1_torch
+channels:
+  - defaults
+  - conda-forge
+  - pytorch-nightly
+dependencies:
+    - python
+    - jupyter
+    - matplotlib
+    - numpy
+    - pytorch
+    - scikit-learn
+    - scipy
+    - nb_conda
+    - pandas
+    - matplotlib
